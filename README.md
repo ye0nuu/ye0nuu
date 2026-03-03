@@ -1,9 +1,12 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Jang%20Yeonwoo&animation=fadeIn&fontColor=696969&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Jang%20Yeonwoo&animation=fadeIn&fontColor=696969&fontSize=30" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 백엔드와 AI 시스템에 관심이 있습니다. 구조를 이해하고 안정적인 서비스를 만드는 개발자를 지향합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
+        안녕하세요, 장연우입니다.😃 <br>
+        백엔드와 AI 시스템에 관심이 있습니다.<br>
+        구조를 이해하고 안정적인 서비스를 만드는 개발자를 지향합니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -30,6 +33,10 @@
        </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">   </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
+        <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=ye0nuu&custom_title=ye0nuu's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ye0nuu&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div> 
     </div>
     
