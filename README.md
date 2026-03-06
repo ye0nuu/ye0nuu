@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=Jang%20Yeonwoo&animation=fadeIn&fontColor=696969&fontSize=30" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=%20&animation=fadeIn&fontColor=696969&fontSize=30" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
