@@ -1,13 +1,13 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=%20&animation=fadeIn&fontColor=696969&fontSize=30" />
     </div>
-    <div style="text-align: left;"> 
+    <!-- <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
         안녕하세요, 장연우입니다.😃 <br>
         <!-- 백엔드와 AI 시스템에 관심이 있습니다.<br>
         구조를 이해하고 안정적인 서비스를 만드는 개발자를 지향합니다. --> </div> 
-    </div>
+    </div> -->
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
