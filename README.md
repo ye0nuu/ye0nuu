@@ -38,6 +38,6 @@
   <h2>🏅 Stats</h2>
 
   <!-- 방문자 수 -->
-  <img src="https://komarev.com/ghpvc/?username=ye0nuu&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=ye0nuu&color=blue"/>
 
 </div>
