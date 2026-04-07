@@ -47,6 +47,6 @@
     <a href="https://velog.io/@ye0nuu/posts"></a>
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /><br>
     <!-- 방문자 수 -->
-    <img src="https://komarev.com/ghpvc/?username=ye0nuu&color=89CFF0" />
+    <img src="https://komarev.com/ghpvc/?username=ye0nuu&color=89CFF0&style=for-the-badge" />
     <br><br>
 </div>
