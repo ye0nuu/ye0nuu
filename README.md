@@ -44,8 +44,9 @@
 
 <div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact Me </h2>
-    <a href="https://velog.io/@ye0nuu/posts"></a>
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" /><br>
+    <a href="https://velog.io/@ye0nuu/posts">
+        <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white" />
+    </a><br>
     <!-- 방문자 수 -->
     <img src="https://komarev.com/ghpvc/?username=ye0nuu&color=89CFF0&style=for-the-badge" />
     <br><br>
