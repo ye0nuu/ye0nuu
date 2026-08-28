@@ -5,14 +5,6 @@
 
 <br><br>
 
-<!-- <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        안녕하세요, 장연우입니다.😃 <br>
-        백엔드와 AI 시스템에 관심이 있습니다.<br>
-        구조를 이해하고 안정적인 서비스를 만드는 개발자를 지향합니다. </div> 
-</div> -->
-
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;"> 
@@ -38,9 +30,7 @@
 
 <div align="left">
     <h2>🏅 Stats</h2>
-    <img src="https://readme-stats-fast.vercel.app/api?username=ye0nuu&show_icons=true&theme=react" height=160 />
-    <img src="https://streak-stats.demolab.com/?user=ye0nuu&theme=react" height=160 />
-</div>
+    <img src="https://readme-stats-fast.vercel.app/api?username=ye0nuu&show_icons=true&theme=react" height=160 /></div>
 
 <div align="left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact Me </h2>
