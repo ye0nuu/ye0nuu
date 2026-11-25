@@ -52,7 +52,7 @@
 
 | Period | What | Description |
 |---|---|---|
-| 2026.10 – 2026.11 | 🗓️ **[TTAK (딱)](https://github.com/leechimins/School_2602SWC)** | AI 에이전트가 회의를 조율하고 회의록에서 할 일을 뽑는 팀 프로젝트 도우미<br>🏆 교내 SW 경진대회 우수상 |
-| 2026.03 – 2026.08 | 💼 **CGInside**<br>AI Engineer Intern | 컴플라이언스 AI (금융사 PoC): 금융당국 보도자료·입법예고를 고객사 내규와 매칭해 영향 분석<br>AI 법무지원 시스템: 법령·판례 근거 Q&A와 계약서 검토 RAG |
-| 2025.10 – 2025.11 | 💍 **[쀼메이트](https://github.com/ye0nuu/bbumate)** | 신혼부부 주거·대출·복지 정책을 출처와 함께 안내하는 RAG 챗봇 |
-| 2025.06 – 2025.12 | ☕ **패스트캠퍼스 KDT**<br>백엔드 13기 | Java·Spring 기반 백엔드·AI 융합 과정 수료 |
+| 2026.10 – 2026.11 | **[TTAK (딱)](https://github.com/leechimins/School_2602SWC)** | AI 에이전트가 회의를 조율하고 회의록에서 할 일을 뽑는 팀 프로젝트 도우미<br> - 교내 SW 경진대회 우수상 |
+| 2026.03 – 2026.08 | **CGInside**<br>AI Engineer Intern | 컴플라이언스 AI (금융사 PoC): 금융당국 보도자료·입법예고를 고객사 내규와 매칭해 영향 분석<br>AI 법무지원 시스템: 법령·판례 근거 Q&A와 계약서 검토 RAG |
+| 2025.10 – 2025.11 | **[쀼메이트](https://github.com/ye0nuu/bbumate)** | 신혼부부 주거·대출·복지 정책을 출처와 함께 안내하는 RAG 챗봇 |
+| 2025.06 – 2025.12 | **패스트캠퍼스 KDT**<br>백엔드 13기 | Java·Spring 기반 백엔드·AI 융합 과정 수료 |
