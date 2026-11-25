@@ -1,6 +1,9 @@
 <div align= "center">
-    <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=%20&animation=fadeIn&fontColor=696969&fontSize=30" /> -->
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=700&size=35&color=89CFF0&center=true&vCenter=true&width=600&lines=Yeonuu+Jang;Backend+Developer" />
+    <div align="center">
+      <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=700&size=40&height=60&color=89CFF0&center=true&vCenter=true&width=600&lines=Yeonwoo+Jang&repeat=false&pause=100000" />
+      <br>
+      <img src="https://readme-typing-svg.demolab.com/?font=Montserrat&weight=500&size=18&height=30&color=89CFF0&center=true&vCenter=true&width=600&lines=AI+%2F+Backend+Engineer&repeat=false&pause=100000&duration=2000" />
+    </div>
 </div>
 
 <br><br>
